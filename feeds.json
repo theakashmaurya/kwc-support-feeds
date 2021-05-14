@@ -1,10 +1,15 @@
 {
   "status": "ok",
   "posts": [
-    {"title_plain":"Get Your Business Website Just For ₹ 3500 Only \n >> 5 Pages \n >> .com Domain \n >> Business Email\n >> Google Map Plugin! \n >> Social Media Integrations & More..."},
-    {"title_plain":"Boost Your Business With Facebook Marketing! Packages are Starting at ₹ 1500/mo Only!"},
-    {"title_plain":"Get your brand Logo Just for ₹ 650 Only! Limited Offer"},
-    {"title_plain":"Boost Your Business With Google Ads (Search Engine Marketing)"},
-    {"title_plain":"We help businesses to grow using digital mediums like social media and search engines. We are one of the top-ranked digital marketing agency in Kanpur. We are also serving outside the city in different states. Providing Services Across The Globe: Australia/Brazil/Cameroon/Canada/Denmark/France/Ghana/India/Indonesia/Nepal/Singapore/Seychelles/Spain/United Kingdom/United States"}
+    {
+      "title_plain":"Business Website @ ₹ 3500 Only",
+      "subtitle":"Book Now!",
+      "action_url":"https://3500.kanpurwebsitecompany.co.in"
+    },
+    {
+      "title_plain":"Logo Designing Services @ ₹ 650 Only",
+      "subtitle":"Book Now!",
+      "action_url":"https://www..kanpurwebsitecompany.co.in"
+    }
   ]
 }
